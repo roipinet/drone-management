@@ -1,0 +1,70 @@
+item{
+	id:1
+	name:'parking'
+}
+
+item{
+	id:2
+	name:'exit'
+}
+
+item{
+	id:3
+	name:'entrance'
+}
+item{
+	id:4
+	name:'aventurasJuntos'
+}
+item{
+	id:5
+	name:'teQuiero'
+}
+item{
+	id:6
+	name:'nosQuiero'
+}
+item{
+	id:7
+	name:'laMejorParaConciertos'
+}
+item{
+	id:8
+	name:'conciertosJuntos'
+}
+item{
+	id:9
+	name:'nosQuieroTanto'
+}
+item{
+	id:10
+	name:'teVeo'
+}
+item{
+	id:11
+	name:'teAmo'
+}
+item{
+	id:12
+	name:'vamosADesayunarSiempre'
+}
+item{
+	id:13
+	name:'diasJuntos'
+}
+item{
+	id:14
+	name:'tuSonrisa'
+}
+item{
+	id:15
+	name:'soyFelizSiEresFeliz'
+}
+item{
+	id:16
+	name:'queSeriosjaja'
+}
+item{
+	id:17
+	name:'metaleros'
+}
